@@ -1,0 +1,14 @@
+# Images (in case any get downloaded or tested inside the repo folder)
+*.jpg
+*.jpeg
+*.png
+
+# Shortcuts
+*.url
+*.lnk
+
+# Editor / OS clutter
+.vscode/
+Thumbs.db
+desktop.ini
+.DS_Store
