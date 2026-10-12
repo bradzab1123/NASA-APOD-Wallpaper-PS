@@ -30,7 +30,7 @@ If the day's APOD is a video instead of an image, the script does nothing and tr
 
 **Option B – Git:**
 ```powershell
-git clone https://github.com/<your-username>/apod-wallpaper.git
+git clone https://github.com/bradzab1123/apod-wallpaper.git
 ```
 
 ### 2. Put the folder somewhere permanent
